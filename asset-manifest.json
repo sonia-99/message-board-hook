@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/message-board-hook/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/message-board-hook/static/js/main.04b51f23.chunk.js",
+    "main.js.map": "/message-board-hook/static/js/main.04b51f23.chunk.js.map",
+    "runtime-main.js": "/message-board-hook/static/js/runtime-main.2caf6649.js",
+    "runtime-main.js.map": "/message-board-hook/static/js/runtime-main.2caf6649.js.map",
+    "static/js/2.0644629b.chunk.js": "/message-board-hook/static/js/2.0644629b.chunk.js",
+    "static/js/2.0644629b.chunk.js.map": "/message-board-hook/static/js/2.0644629b.chunk.js.map",
+    "static/js/3.f28ee41a.chunk.js": "/message-board-hook/static/js/3.f28ee41a.chunk.js",
+    "static/js/3.f28ee41a.chunk.js.map": "/message-board-hook/static/js/3.f28ee41a.chunk.js.map",
+    "index.html": "/message-board-hook/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/message-board-hook/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0644629b.chunk.js.LICENSE.txt": "/message-board-hook/static/js/2.0644629b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2caf6649.js",
+    "static/js/2.0644629b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.04b51f23.chunk.js"
+  ]
+}
